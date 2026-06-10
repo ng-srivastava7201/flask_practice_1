@@ -1,6 +1,6 @@
 # flask_practice_1
 ## Structure
-
+```bash
 FLASK(TASK MANAGER)
 |
 |- env
@@ -11,3 +11,4 @@ FLASK(TASK MANAGER)
 |_static/
   |_css/
     |_main.css
+```
